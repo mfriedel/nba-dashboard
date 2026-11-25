@@ -1,6 +1,8 @@
 # NBA Dashboard
 
 A Streamlit dashboard exploring NBA team-game data, deployed to Streamlit Community Cloud.
+Inspired by an example tutorial from Prince Afriyie. 
+Co-authored by Claude. 
 
 ## Data
 
