@@ -40,3 +40,5 @@ streamlit run app.py
 
 Pushed to GitHub and deployed on Streamlit Community Cloud with `app.py` as the
 entry point. `requirements.txt` pins the versions used locally (Python 3.12).
+
+See [DEPLOY.md](DEPLOY.md) for step-by-step deployment instructions.
